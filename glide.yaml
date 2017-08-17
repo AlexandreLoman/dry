@@ -69,8 +69,4 @@ import:
   version: master
   repo: git@github.com:/sirupsen/logrus
   vcs: git
-- package: github.com/Sirupsen/logrus
-  version: master
-  repo: git@github.com:/sirupsen/logrus
-  vcs: git
 - package: github.com/docker/cli
